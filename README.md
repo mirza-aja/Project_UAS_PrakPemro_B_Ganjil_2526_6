@@ -8,16 +8,16 @@ Project ini adalah program Sistem Peminjaman Buku Perpustakaan Mini yang dibuat 
 ## Fitur Utama
 
 * Tambah, hapus, dan edit data buku
-* Kategorisasi buku**: Fiksi, Non-Fiksi, Komik, Majalah, Referensi
+* Kategorisasi buku: Fiksi, Non-Fiksi, Komik, Majalah, Referensi
 * Peminjaman & pengembalian buku + perhitungan denda otomatis
-* Cari buku** berdasarkan judul, penulis, atau kategori
+* Cari buku berdasarkan judul, penulis, atau kategori
 * Pendaftaran anggota perpustakaan
 * Riwayat peminjaman anggota
-* Status buku** (Tersedia / Dipinjam)
+* Status buku (Tersedia / Dipinjam)
 * Ranking buku paling sering dipinjam
 * Pengaturan durasi peminjaman maksimal
 * Login pustakawan
-* Semua data tersimpan ke **file eksternal `.txt`
+* Semua data tersimpan ke file eksternal `.txt`
 
 ## Cara Menjalankan
 
