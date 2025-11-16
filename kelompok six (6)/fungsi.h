@@ -15,7 +15,7 @@ typedef struct {
     char judul[100];
     char penulis[100];
     char kategori[50];
-    int status; // 1 = tersedia, 0 = dipinjam
+    int status; 
     int dipinjamCount;
 } Buku;
 
